@@ -1,5 +1,6 @@
 Firmware/
-Models
+Models/Private
+Models/Downloaded
 SKR-2-master
 SKR-2-master.zip
 MarlinWorkspace.code-workspace
